@@ -1,0 +1,2 @@
+# schoolz
+School Management App
